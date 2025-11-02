@@ -23,6 +23,7 @@ math-adaptive-prototype/
 ├── README.md                 # Project documentation
 ├── requirements.txt          # Python dependencies
 ├── app.py                   # Streamlit web interface ⭐
+├── run_cli.py               # CLI launcher script
 ├── src/
 │   ├── __init__.py          # Package initialization
 │   ├── main.py              # CLI application logic
