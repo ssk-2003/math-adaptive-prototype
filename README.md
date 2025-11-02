@@ -2,8 +2,11 @@
 
 An intelligent math learning system that dynamically adjusts puzzle difficulty based on real-time performance analysis. Designed for children ages 5-10.
 
+**🔗 Repository:** https://github.com/ssk-2003/math-adaptive-prototype
+
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
+[![GitHub](https://img.shields.io/badge/GitHub-ssk--2003%2Fmath--adaptive--prototype-blue?logo=github)](https://github.com/ssk-2003/math-adaptive-prototype)
 
 ## 🎯 Overview
 
@@ -57,7 +60,7 @@ math-adaptive-prototype/
 
 1. **Clone the repository:**
 ```bash
-git clone <repository-url>
+git clone https://github.com/ssk-2003/math-adaptive-prototype.git
 cd math-adaptive-prototype
 ```
 
@@ -376,7 +379,13 @@ Created as part of the Adaptive Learning Assignment - demonstrating AI-powered p
 
 ## 📧 Contact
 
-For questions or feedback about this prototype, please open an issue in the repository.
+For questions or feedback about this prototype, please open an issue on [GitHub](https://github.com/ssk-2003/math-adaptive-prototype/issues).
+
+## 🔗 Links
+
+- **Repository:** https://github.com/ssk-2003/math-adaptive-prototype
+- **Live Demo:** Run locally with `python -m streamlit run app.py`
+- **Author:** [@ssk-2003](https://github.com/ssk-2003)
 
 ---
 
