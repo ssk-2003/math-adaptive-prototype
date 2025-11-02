@@ -22,7 +22,7 @@ Math Adventures uses adaptive learning algorithms to personalize math practice. 
 math-adaptive-prototype/
 ├── README.md                 # Project documentation
 ├── requirements.txt          # Python dependencies
-├── app.py                   # Streamlit web interface ⭐
+├── app.py                   # Streamlit web interface 
 ├── run_cli.py               # CLI launcher script
 ├── src/
 │   ├── __init__.py          # Package initialization
