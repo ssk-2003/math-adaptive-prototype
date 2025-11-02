@@ -6,9 +6,9 @@ Main application module that orchestrates the adaptive learning experience.
 import sys
 import time
 from typing import Dict, Optional, Tuple
-from puzzle_generator import PuzzleGenerator, Difficulty
-from tracker import PerformanceTracker
-from adaptive_engine import AdaptiveEngine
+from .puzzle_generator import PuzzleGenerator, Difficulty
+from .tracker import PerformanceTracker
+from .adaptive_engine import AdaptiveEngine
 
 
 class MathAdventures:

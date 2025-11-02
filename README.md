@@ -23,9 +23,10 @@ math-adaptive-prototype/
 ├── README.md                 # Project documentation
 ├── requirements.txt          # Python dependencies
 ├── app.py                   # Streamlit web interface ⭐
+├── run_cli.py               # CLI launcher script
 ├── src/
 │   ├── __init__.py          # Package initialization
-│   ├── main.py              # CLI application entry point
+│   ├── main.py              # CLI application logic
 │   ├── puzzle_generator.py  # Dynamic puzzle generation engine
 │   ├── tracker.py           # Performance tracking and analytics
 │   └── adaptive_engine.py   # Adaptive difficulty adjustment logic
@@ -83,8 +84,7 @@ streamlit run app.py
 
 #### Option 2: Command Line Interface (CLI)
 ```bash
-cd src
-python main.py
+python run_cli.py
 ```
 - No dependencies required
 - Terminal-based interface
@@ -93,7 +93,7 @@ python main.py
 ### Usage Example
 
 ```bash
-$ python main.py
+$ python run_cli.py
 
 ============================================================
 🎮  MATH ADVENTURES - AI-Powered Adaptive Learning
