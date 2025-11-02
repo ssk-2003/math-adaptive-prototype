@@ -23,7 +23,6 @@ math-adaptive-prototype/
 ├── README.md                 # Project documentation
 ├── requirements.txt          # Python dependencies
 ├── app.py                   # Streamlit web interface ⭐
-├── run_cli.py               # CLI launcher script
 ├── src/
 │   ├── __init__.py          # Package initialization
 │   ├── main.py              # CLI application logic
@@ -73,7 +72,7 @@ pip install -r requirements.txt
 
 ### Running the Application
 
-#### Option 1: Web Interface (Streamlit) - Recommended ⭐
+#### Option 1: Web Interface (Streamlit) - Recommended 
 ```bash
 streamlit run app.py
 ```
